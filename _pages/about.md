@@ -8,6 +8,5 @@ redirect_from:
 ---
 
 
-My Personal Site
 ======
 I'm a highly motivated high school senior who is eager to gain experience in the field of computer science, especially artificial intelligence and software engineering. Strong work ethic and ready to take on new challenges to achieve my goals and contribute to society with research and real-life applications.
